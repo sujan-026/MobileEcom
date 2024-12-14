@@ -1,0 +1,170 @@
+[
+    {
+      "id": 1,
+      "name": "Hero XPulse 200",
+      "manufacturer": "Hero",
+      "year": null,
+      "description": "A lightweight adventure bike for on and off-road riding.",
+      "price": 120000
+    },
+    {
+      "id": 2,
+      "name": "Hero Grazia",
+      "manufacturer": "Hero",
+      "year": null,
+      "description": "A stylish scooter designed for urban commutes.",
+      "price": 85000
+    },
+    {
+      "id": 3,
+      "name": "Hero Ignitor",
+      "manufacturer": "Hero",
+      "year": null,
+      "description": "A sporty commuter bike with excellent mileage.",
+      "price": 75000
+    },
+    {
+      "id": 4,
+      "name": "TVS NTorq",
+      "manufacturer": "TVS",
+      "year": null,
+      "description": "A performance-oriented scooter with smart features.",
+      "price": 90000
+    },
+    {
+      "id": 5,
+      "name": "TVS Radeon",
+      "manufacturer": "TVS",
+      "year": null,
+      "description": "A commuter bike with classic styling and modern features.",
+      "price": 70000
+    },
+    {
+      "id": 6,
+      "name": "Honda CB Hornet",
+      "manufacturer": "Honda",
+      "year": null,
+      "description": "A powerful street bike with aggressive styling.",
+      "price": 130000
+    },
+    {
+      "id": 7,
+      "name": "Honda Grazia",
+      "manufacturer": "Honda",
+      "year": null,
+      "description": "A premium scooter with advanced features.",
+      "price": 85000
+    },
+    {
+      "id": 8,
+      "name": "Suzuki Gixxer",
+      "manufacturer": "Suzuki",
+      "year": 2014,
+      "description": "A sporty street bike known for its performance and style.",
+      "price": 125000
+    },
+    {
+      "id": 9,
+      "name": "Suzuki Hayate",
+      "manufacturer": "Suzuki",
+      "year": null,
+      "description": "An economical commuter bike.",
+      "price": 65000
+    },
+    {
+      "id": 10,
+      "name": "Yamaha Fascino",
+      "manufacturer": "Yamaha",
+      "year": 2015,
+      "description": "A retro-modern scooter with stylish looks.",
+      "price": 90000
+    },
+    {
+      "id": 11,
+      "name": "Hero Splendor",
+      "manufacturer": "Hero",
+      "year": 1990,
+      "description": "A legendary commuter bike known for its reliability.",
+      "price": 60000
+    },
+    {
+      "id": 12,
+      "name": "Suzuki Gixxer",
+      "manufacturer": "Suzuki",
+      "year": 2014,
+      "description": "A sporty street bike known for its performance and style.",
+      "price": 125000
+    },
+    {
+      "id": 13,
+      "name": "Suzuki Intruder",
+      "manufacturer": "Suzuki",
+      "year": 2017,
+      "description": "A cruiser bike with bold styling and comfort.",
+      "price": 140000
+    },
+    {
+      "id": 14,
+      "name": "TVS Star City Plus",
+      "manufacturer": "TVS",
+      "year": 2014,
+      "description": "A reliable commuter bike with a comfortable ride.",
+      "price": 70000
+    },
+    {
+      "id": 15,
+      "name": "TVS Zest",
+      "manufacturer": "TVS",
+      "year": 2014,
+      "description": "A lightweight scooter with vibrant colors.",
+      "price": 75000
+    },
+    {
+      "id": 16,
+      "name": "Yamaha Fascino",
+      "manufacturer": "Yamaha",
+      "year": 2015,
+      "description": "A retro-modern scooter with stylish looks.",
+      "price": 90000
+    },
+    {
+      "id": 17,
+      "name": "Yamaha Ray",
+      "manufacturer": "Yamaha",
+      "year": 2012,
+      "description": "A sleek and compact scooter for city rides.",
+      "price": 80000
+    },
+    {
+      "id": 18,
+      "name": "Mahindra Gusto",
+      "manufacturer": "Mahindra",
+      "year": 2014,
+      "description": "A feature-rich scooter with adjustable seat height.",
+      "price": 78000
+    },
+    {
+      "id": 19,
+      "name": "Mahindra Pantero",
+      "manufacturer": "Mahindra",
+      "year": 2013,
+      "description": "A commuter bike offering excellent mileage.",
+      "price": 65000
+    },
+    {
+      "id": 20,
+      "name": "Yamaha Saluto",
+      "manufacturer": "Yamaha",
+      "year": 2015,
+      "description": "A practical commuter bike with fuel efficiency.",
+      "price": 75000
+    },
+    {
+      "id": 21,
+      "name": "TVS Wego",
+      "manufacturer": "TVS",
+      "year": 2010,
+      "description": "A scooter with a comfortable ride and good performance.",
+      "price": 70000
+    }
+  ]
